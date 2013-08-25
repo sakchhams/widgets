@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="android" url="file://F:/_tuts/_progr.Essentials/Android/Android Libraries/ActionBarSherlock-dev/actionbarsherlock" />
+    <file type="android" url="file://F:/_tuts/_progr.Essentials/Android/Android Libraries/ShowcaseView-master/library" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="F:/_tuts/_progr.Essentials/Android/Android Libraries/ActionBarSherlock-dev/actionbarsherlock/pom.xml" />
+        <option value="F:/_tuts/_progr.Essentials/Android/Android Libraries/ShowcaseView-master/library/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="F:/_tuts/_progr.Essentials/Android/Android Libraries/ActionBarSherlock-dev/actionbarsherlock/pom.xml" />
+        <option value="F:/_tuts/_progr.Essentials/Android/Android Libraries/ShowcaseView-master/library/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" assert-keyword="true" jdk-15="true" project-jdk-name="Android 4.2.2 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>
+

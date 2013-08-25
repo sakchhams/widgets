@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="Widgets Everywhere" />
+        <option name="packageNamePattern" value="ic.lunar.floatingwidgetspace" />
+        <option name="pid" value="8713" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="visible" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <target>android-17</target>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="Window" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9089bcec-0906-46c4-978d-398691709be0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../appwidgetpicker/trunk/trunk.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../appwidgetpicker/trunk/src/com/boombuler/system/appwidgetpicker/AppWidgetPickerActivity.java" afterPath="$PROJECT_DIR$/../appwidgetpicker/trunk/src/com/boombuler/system/appwidgetpicker/AppWidgetPickerActivity.java" />
+    </list>
+    <ignored path="Floating Widget Space.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/lay_widget_add_space.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1372227623937" ignored="false" />
+    <file path="/WidgetAddSpace.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373477655482" ignored="false" />
+    <file path="/fragment.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1375148778271" ignored="false" />
+    <file path="/Window.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1375154127998" ignored="false" />
+    <file path="/StandOutWindow.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1374268069382" ignored="false" />
+    <file path="/FloatingWidget.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1377470169307" ignored="false" />
+    <file path="/MultiWindow.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1372077563017" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1377470333234" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/ic/lunar/floatingwidgetspace/R.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1375154879885" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/ic/lunar/floatingwidgetspace/Manifest.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1375150259511" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/ic/lunar/floatingwidgetspace/BuildConfig.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1375154949105" ignored="false" />
+    <file path="/Dummy.txt" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1374881418009" ignored="false" />
+    <file path="/host.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1372144946620" ignored="false" />
+    <file path="/system_window_decorators.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373478855305" ignored="false" />
+    <file path="/TestRunWidgets.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1372229079039" ignored="false" />
+    <file path="/FloatingWidgetHoastView.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1372313836764" ignored="false" />
+    <file path="/strings.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373478220397" ignored="false" />
+    <file path="/WidgetManager.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1372320584541" ignored="false" />
+    <file path="/Manager.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373097735659" ignored="false" />
+    <file path="/running_widget.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373093853515" ignored="false" />
+    <file path="/RunningWidgetadapter.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1372673972733" ignored="false" />
+    <file path="/RunningWidgetAdapter.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1372743324976" ignored="false" />
+    <file path="/manager.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373093194948" ignored="false" />
+    <file path="/BudleWidgetInfoAndId.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1372677688712" ignored="false" />
+    <file path="/styles.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1372835390169" ignored="false" />
+    <file path="/button_bar.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373094954808" ignored="false" />
+    <file path="/WidgetPickerAdapter.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373200333846" ignored="false" />
+    <file path="/AppWidgetPickerActivity.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373287246552" ignored="false" />
+    <file path="/ItemAdapter.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373286487705" ignored="false" />
+    <file path="/appwidgetpicker.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373286580718" ignored="false" />
+    <file path="/PickWidgetDialog.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373286643427" ignored="false" />
+    <file path="/a.dummy" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373287721360" ignored="false" />
+    <file path="/PreferenceActivity.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373475995573" ignored="false" />
+    <file path="/Close.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373540754167" ignored="false" />
+    <file path="/button_item_hlp.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373540583390" ignored="false" />
+    <file path="/ButtonBar.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373541385188" ignored="false" />
+    <file path="/buttun_bar_config.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1373541632050" ignored="false" />
+    <file path="/add_button.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1374263747795" ignored="false" />
+    <file path="/hide_press.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1374110615536" ignored="false" />
+    <file path="/set_button.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1374110699472" ignored="false" />
+    <file path="/close_button.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1374110751415" ignored="false" />
+    <file path="/ConfigurationDock.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1374115395945" ignored="false" />
+    <file path="/settings_dock.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1374122366396" ignored="false" />
+    <file path="/FloatObject.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1377468903115" ignored="false" />
+    <file path="/ConfigurationActivity.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1375153932084" ignored="false" />
+    <file path="/Pointer.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1375154769445" ignored="false" />
+    <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1374882319952" ignored="false" />
+    <file path="/resize_pointer.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1375155391941" ignored="false" />
+    <file path="/WidgetSpace.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1375150832050" ignored="false" />
+    <file path="F:/_tuts/_progr.Essentials/Android/Android Libraries/ActionBarSherlock-dev/actionbarsherlock/target/generated-sources/r/com/actionbarsherlock/Manifest.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1375150259511" ignored="false" />
+    <file path="F:/_tuts/_progr.Essentials/Android/Android Libraries/ActionBarSherlock-dev/actionbarsherlock/target/generated-sources/r/com/actionbarsherlock/R.java" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1375150259511" ignored="false" />
+    <file path="/fragment_tabs.xml" changelist="9089bcec-0906-46c4-978d-398691709be0" time="1375153915299" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Floating Widget Space" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="FloatingWidget.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ic/lunar/floatingwidgetspace/FloatingWidget.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="7" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#13681#14542#0" expanded="true" />
+                <element signature="e#14527#14528#0" expanded="true" />
+                <element signature="e#15975#16653#0" expanded="true" />
+                <element signature="e#16638#16639#0" expanded="true" />
+                <element signature="e#16726#16917#0" expanded="true" />
+                <element signature="e#16902#16903#0" expanded="true" />
+                <element signature="e#17137#17365#0" expanded="true" />
+                <element signature="e#17350#17351#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="11" selection-start="1148" selection-end="1148" vertical-scroll-proportion="1.0708661">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="F:\_tuts\_droid_keystore\fusion_launcher.key" />
+    <option name="KEY_ALIAS" value="WE" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/ic/lunar/floatingwidgetspace/widget/helpers/ConfigurationDock.java" />
+        <option value="$PROJECT_DIR$/res/drawable/add_button.xml" />
+        <option value="$PROJECT_DIR$/res/drawable/close_button.xml" />
+        <option value="$PROJECT_DIR$/res/drawable/hide_button.xml" />
+        <option value="$PROJECT_DIR$/res/drawable/set_button.xml" />
+        <option value="$PROJECT_DIR$/src/ic/lunar/floatingwidgetspace/Manager.java" />
+        <option value="$PROJECT_DIR$/src/wei/mark/standout/StandOutWindow.java" />
+        <option value="$PROJECT_DIR$/src/ic/lunar/floatingwidgetspace/widget/helpers/WidgetSpace.java" />
+        <option value="$PROJECT_DIR$/res/layout/fragment_tabs.xml" />
+        <option value="$PROJECT_DIR$/src/wei/mark/standout/ui/Window.java" />
+        <option value="$PROJECT_DIR$/src/ic/lunar/floatingwidgetspace/Settings/ConfigurationActivity.java" />
+        <option value="$PROJECT_DIR$/src/ic/lunar/floatingwidgetspace/Settings/fragments/Pointer.java" />
+        <option value="$PROJECT_DIR$/res/layout/resize_pointer.xml" />
+        <option value="$PROJECT_DIR$/src/ic/lunar/floatingwidgetspace/widget/helpers/FloatObject.java" />
+        <option value="$PROJECT_DIR$/src/ic/lunar/floatingwidgetspace/FloatingWidget.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1288" />
+    <option name="height" value="928" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="library-invalid-classes-path(library:project:Maven: com.google.android:android:4.0.1.2)" />
+      <problem id="library-invalid-classes-path(library:project:Maven: com.google.android:annotations:4.1.1.4)" />
+      <problem id="library-invalid-classes-path(library:project:Maven: com.google.android:support-v4:r7)" />
+      <problem id="library-invalid-classes-path(library:project:Maven: com.nineoldandroids:library:2.4.0)" />
+      <problem id="library-invalid-classes-path(library:project:Maven: junit:junit:4.10)" />
+      <problem id="library-invalid-classes-path(library:project:Maven: org.easytesting:fest-assert-core:2.0M10)" />
+      <problem id="library-invalid-classes-path(library:project:Maven: org.robolectric:robolectric:2.0-alpha-2)" />
+      <problem id="unused-library(library:project:Maven: com.google.android:android:4.0.1.2)" />
+      <problem id="unused-library(library:project:Maven: com.google.android:annotations:4.1.1.4)" />
+      <problem id="unused-library(library:project:Maven: com.google.android:support-v4:r7)" />
+      <problem id="unused-library(library:project:Maven: com.nineoldandroids:library:2.4.0)" />
+      <problem id="unused-library(library:project:Maven: junit:junit:4.10)" />
+      <problem id="unused-library(library:project:Maven: org.easytesting:fest-assert-core:2.0M10)" />
+      <problem id="unused-library(library:project:Maven: org.robolectric:robolectric:2.0-alpha-2)" />
+      <problem id="unused-library(library:project:nineoldandroids-2.4.0)" />
+    </ignored-problems>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="standout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="standout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floatingwidgetspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="floatingwidgetspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Widgets Everywhere" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="ExportedApkPath" value="F:\WidgetsEverywhere-Beta2.32.apk" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="ExportedModule" value="FloatingWidgetSpace" />
+    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/nineoldandroids-2.4.0.jar!/" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="floating_widget_space" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="Downloaded.Files.Path" value="F:\Eclipse_WorkSpace\FloatingWidgetSpace\lib" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.side.proportion" value="0.18771726" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="AndroidRunProguardForReleaseBuild" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Eclipse_WorkSpace\FloatingWidgetSpace\res\layout" />
+      <recent name="F:\Eclipse_WorkSpace\FloatingWidgetSpace\res\drawable-hdpi" />
+      <recent name="F:\Eclipse_WorkSpace\FloatingWidgetSpace\res\drawable-xhdpi" />
+      <recent name="F:\Eclipse_WorkSpace\FloatingWidgetSpace\res\drawable-mdpi" />
+      <recent name="F:\Eclipse_WorkSpace\FloatingWidgetSpace\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Eclipse_WorkSpace\FloatingWidgetSpace\res\layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.Floating Widget Space">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Floating Widget Space" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="FloatingWidgetSpace" />
+      <option name="ACTIVITY_CLASS" value="ic.lunar.floatingwidgetspace.PickAppWidgets" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.Floating Widget Space" />
+    </list>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">C:\Users\Physcolabs\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9089bcec-0906-46c4-978d-398691709be0" name="Default" comment="" />
+      <created>1372074233600</created>
+      <updated>1372074233600</updated>
+      <workItem from="1372074253164" duration="6126000" />
+      <workItem from="1372144353785" duration="3341000" />
+      <workItem from="1372220849023" duration="8731000" />
+      <workItem from="1372312244307" duration="3925000" />
+      <workItem from="1372318076945" duration="2838000" />
+      <workItem from="1372329022486" duration="2914000" />
+      <workItem from="1372656325857" duration="3273000" />
+      <workItem from="1372661878269" duration="2773000" />
+      <workItem from="1372670713258" duration="12465000" />
+      <workItem from="1372741447232" duration="2079000" />
+      <workItem from="1372834253916" duration="2677000" />
+      <workItem from="1373086552516" duration="1595000" />
+      <workItem from="1373091130581" duration="7441000" />
+      <workItem from="1373199036124" duration="3379000" />
+      <workItem from="1373275908550" duration="2556000" />
+      <workItem from="1373284813402" duration="3013000" />
+      <workItem from="1373475734459" duration="3503000" />
+      <workItem from="1373533383708" duration="8197000" />
+      <workItem from="1373542665526" duration="58000" />
+      <workItem from="1373870042584" duration="7407000" />
+      <workItem from="1373905343908" duration="2237000" />
+      <workItem from="1373939108236" duration="128000" />
+      <workItem from="1373941144288" duration="4520000" />
+      <workItem from="1374108187616" duration="14553000" />
+      <workItem from="1374125962045" duration="2723000" />
+      <workItem from="1374222592992" duration="5687000" />
+      <workItem from="1374261045860" duration="10471000" />
+      <workItem from="1374377751836" duration="30000" />
+      <workItem from="1374395083252" duration="9000" />
+      <workItem from="1374395539210" duration="1341000" />
+      <workItem from="1374878483038" duration="6773000" />
+      <workItem from="1375147872348" duration="770000" />
+      <workItem from="1375148667043" duration="241000" />
+      <workItem from="1375148971656" duration="436000" />
+      <workItem from="1375149576345" duration="30000" />
+      <workItem from="1375150037673" duration="5347000" />
+      <workItem from="1377468178129" duration="2672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="146259000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1288" height="928" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6928021" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32820097" sideWeight="0.6928021" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.6709511" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39974293" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904884" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24741448" sideWeight="0.32904884" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31362468" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30719796" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.6902314" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6735219" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24554294" sideWeight="0.6863753" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6928021" order="6" side_tool="false" content_ui="tabs" x="96" y="96" width="1088" height="728" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="59" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/close_button.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="69" selection-start="109" selection-end="109" vertical-scroll-proportion="0.046767537" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/hide_button.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="69" selection-start="109" selection-end="109" vertical-scroll-proportion="0.046767537" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/set_button.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="69" selection-start="109" selection-end="109" vertical-scroll-proportion="0.046767537" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wei/mark/standout/StandOutWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="638" column="0" selection-start="21527" selection-end="21527" vertical-scroll-proportion="-1.3572395" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wei/mark/standout/ui/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="28" selection-start="3319" selection-end="3319" vertical-scroll-proportion="0.5557987">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/settings_dock.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ic/lunar/floatingwidgetspace/widget/helpers/FloatObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="22" selection-start="530" selection-end="530" vertical-scroll-proportion="0.38430852">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ic/lunar/floatingwidgetspace/FloatingWidget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="7" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#13681#14542#0" expanded="true" />
+            <element signature="e#14527#14528#0" expanded="true" />
+            <element signature="e#15975#16653#0" expanded="true" />
+            <element signature="e#16638#16639#0" expanded="true" />
+            <element signature="e#16726#16917#0" expanded="true" />
+            <element signature="e#16902#16903#0" expanded="true" />
+            <element signature="e#17137#17365#0" expanded="true" />
+            <element signature="e#17350#17351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="11" selection-start="1148" selection-end="1148" vertical-scroll-proportion="1.0708661">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18771726" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android (FloatingWidgetSpace)|Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18771726" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18771726" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android 4.2.2 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18771726" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FloatingWidgetSpace</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18771726" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>ICS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>nineoldandroids-2.4.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18771726" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

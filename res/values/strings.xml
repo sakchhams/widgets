@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Widgets Everywhere</string>
+    <string name="pick_widgets">Pick Widgets</string>
+    <string name="window_icon">Window icon</string>
+    <string name="hide">Hide</string>
+    <string name="close">Close</string>
+    <string name="corner">Corner</string>
+    <string name="maximize">Maximize</string><string name="widget_label_default">Default Label</string><string name="close_app_wid">Close</string>
+    <string name="swipe_right">Long Press Item for options</string><string name="sample_pointer">Sample</string><string name="size">Size :</string><string name="aplha_head">Transparency :</string>
+</resources>
